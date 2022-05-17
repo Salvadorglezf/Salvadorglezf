@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on AI,QC and Citizen Science. 
   
 - 🔭 I’m currently working on Encoding dependent generalization bounds for PQC with PAC-Bayes.  
-  
+ 
+Find me in [![Twitter: Salvadorglezf](https://img.shields.io/twitter/follow/Salvadorglezf?style=social)](https://twitter.com/Salvadorglezf)
   
 <!--
 **Salvadorglezf/Salvadorglezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
